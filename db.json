@@ -1,0 +1,175 @@
+{
+  "dashboard": {
+    "gains": {
+      "value_diff": 683.2,
+      "procent_diff": 897.2
+    },
+    "losses": {
+      "value_diff": "2,793.63",
+      "procent_diff": 208.6
+    },
+    "voids": {
+      "value_diff": "1,792.40",
+      "procent_diff": 52
+    }
+  },
+  "voids": {
+    "graphic_data": {
+      "opp_value_diff": "313,414.51",
+      "opp_procent_diff": 59.34,
+      "voids_value_diff": "1,980.64",
+      "voids_procent_diff": -39.2
+    },
+    "accounts": {
+      "column_names": [
+        "account",
+        "voids",
+        "total $ opp",
+        "$ opp per store"
+      ],
+      "data": [
+        {
+          "id": 0,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 83,
+          "total_opp": "2,987.83",
+          "opp_per_store": "1,178.02"
+        },
+        {
+          "id": 1,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 27,
+          "total_opp": "2,230.31",
+          "opp_per_store": "2,184.37"
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 69,
+          "total_opp": "2,409.14",
+          "opp_per_store": "3,880.48"
+        },
+        {
+          "id": 3,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 5,
+          "total_opp": "3,031.91",
+          "opp_per_store": "3,822.41"
+        },
+        {
+          "id": 4,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 21,
+          "total_opp": "1,658.48",
+          "opp_per_store": "2,752.01"
+        }
+      ]
+    }
+  },
+  "losses": {
+    "graphic_data": {
+      "losses_value_diff": "4,629.75",
+      "losses_procent_diff": -47.23
+    },
+    "accounts": {
+      "column_names": [
+        "account",
+        "pod losses",
+        "% cng",
+        "voids",
+        "total opp",
+        "opp $ per store"
+      ],
+      "data": [
+        {
+          "id": 0,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 34,
+          "total_opp": "2,792.54",
+          "opp_per_store": "3,484.83"
+        },
+        {
+          "id": 1,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 59,
+          "total_opp": "1,290.28",
+          "opp_per_store": "2,150.88"
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 84,
+          "total_opp": "1,057.20",
+          "opp_per_store": "1,639.48"
+        },
+        {
+          "id": 3,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 16,
+          "total_opp": "2,741.84",
+          "opp_per_store": "2,122.39"
+        },
+        {
+          "id": 4,
+          "imageUrl": "http://placehold.it/32x32",
+          "voids": 19,
+          "total_opp": "3,164.82",
+          "opp_per_store": "3,216.44"
+        }
+      ]
+    },
+    "gains": {
+      "graphic_data": {
+        "gains_value_diff": "289,882.65",
+        "gains_procent_diff": -0.66
+      },
+      "accounts": {
+        "column_names": [
+          "account",
+          "pod ganes",
+          "% cng",
+          "voids",
+          "total opp",
+          "opp $ per store"
+        ],
+        "data": [
+          {
+            "id": 0,
+            "imageUrl": "http://placehold.it/32x32",
+            "voids": 71,
+            "total_opp": "3,896.98",
+            "opp_per_store": "3,594.39"
+          },
+          {
+            "id": 1,
+            "imageUrl": "http://placehold.it/32x32",
+            "voids": 18,
+            "total_opp": "2,831.38",
+            "opp_per_store": "2,157.00"
+          },
+          {
+            "id": 2,
+            "imageUrl": "http://placehold.it/32x32",
+            "voids": 11,
+            "total_opp": "2,339.88",
+            "opp_per_store": "3,077.10"
+          },
+          {
+            "id": 3,
+            "imageUrl": "http://placehold.it/32x32",
+            "voids": 91,
+            "total_opp": "3,585.27",
+            "opp_per_store": "3,377.35"
+          },
+          {
+            "id": 4,
+            "imageUrl": "http://placehold.it/32x32",
+            "voids": 83,
+            "total_opp": "2,639.10",
+            "opp_per_store": "2,812.91"
+          }
+        ]
+      }
+    }
+  }
+}
